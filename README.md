@@ -29,8 +29,8 @@ Write your own steps
 
 ## PROGRAM
 
-### Name: 
-### Register Number:
+### Name: Naveen Kumar.R
+### Register Number:212223230139
 
 ```python
 class PeopleClassifier(nn.Module):
